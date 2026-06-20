@@ -1,0 +1,9 @@
+{
+  "id": "calendar-lee",
+  "name": "calendar-lee",
+  "version": "0.0.1",
+  "minAppVersion": "1.12.0",
+  "description": "Calendar view for daily and monthly notes.",
+  "author": "Allen Lee",
+  "isDesktopOnly": false
+}
